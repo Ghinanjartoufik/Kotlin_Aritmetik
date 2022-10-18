@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="input1">Input 1</string>
+    <string name="input2">Input 2</string>
+    <string name="hasilTxt">Hasil</string>
+    <string name="tambahBtn">+</string>
+    <string name="kaliBtn">X</string>
+</resources>
